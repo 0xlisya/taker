@@ -1392,3 +1392,15 @@
 3/10/2025 | 8:24:13 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
 3/10/2025 | 8:24:13 AM | INFO | Start process for wallet 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
 3/10/2025 | 8:24:14 AM | ERROR | Failed to retrieve nonce for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/10/2025 | 12:44:54 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/10/2025 | 12:44:54 PM | INFO | Start process for wallet 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/10/2025 | 12:44:55 PM | INFO | Trying To Login for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/10/2025 | 12:44:56 PM | INFO | Login successful... 
+3/10/2025 | 12:44:56 PM | INFO | Trying to check user info... 
+3/10/2025 | 12:44:56 PM | INFO | User ID: 102638899 | Twitter: @lisyakairani | Total Points: 504000 
+3/10/2025 | 12:44:56 PM | INFO | Trying to check user miner status... 
+3/10/2025 | 12:44:57 PM | INFO | Last mining time: 3/8/2025, 1:18:48 AM
+3/10/2025 | 12:44:57 PM | INFO | Trying to start Mining for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/10/2025 | 12:44:58 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/10/2025 | 12:44:58 PM | INFO | Trying to activate mining on-chain for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/10/2025 | 12:45:04 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd7b7494921cacb8378c33e0e5a5bd304d92b9068511f20adfae0d6b29b55f343 
