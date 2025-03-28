@@ -2385,3 +2385,15 @@
 3/27/2025 | 8:24:04 PM | INFO | Trying to check user miner status... 
 3/27/2025 | 8:24:05 PM | INFO | Last mining time: 3/27/2025, 1:48:21 AM
 3/27/2025 | 8:24:05 PM | WARN | Mining already started, next mining time is: 3/28/2025, 1:48:21 AM
+3/28/2025 | 1:48:37 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/28/2025 | 1:48:37 AM | INFO | Start process for wallet 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/28/2025 | 1:48:38 AM | INFO | Trying To Login for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/28/2025 | 1:48:38 AM | INFO | Login successful... 
+3/28/2025 | 1:48:38 AM | INFO | Trying to check user info... 
+3/28/2025 | 1:48:39 AM | INFO | User ID: 102638899 | Twitter: @lisyakairani | Total Points: 888000 
+3/28/2025 | 1:48:39 AM | INFO | Trying to check user miner status... 
+3/28/2025 | 1:48:40 AM | INFO | Last mining time: 3/27/2025, 1:48:21 AM
+3/28/2025 | 1:48:40 AM | INFO | Trying to start Mining for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/28/2025 | 1:48:40 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/28/2025 | 1:48:40 AM | INFO | Trying to activate mining on-chain for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+3/28/2025 | 1:48:50 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb8b5dcaa48391410b4b2c697415565ce54861e4460496e59ca9fa0ac311e409d 
