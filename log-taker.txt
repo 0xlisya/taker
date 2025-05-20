@@ -5454,3 +5454,16 @@
 5/20/2025 | 4:30:34 PM | INFO | Trying to check user miner status... 
 5/20/2025 | 4:30:35 PM | INFO | Last mining time: 5/19/2025, 8:26:27 PM
 5/20/2025 | 4:30:35 PM | WARN | Mining already started, next mining time is: 5/20/2025, 8:26:27 PM
+5/20/2025 | 8:26:48 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:26:48 PM | INFO | Start process for wallet 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/20/2025 | 8:26:49 PM | INFO | Trying To Login for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/20/2025 | 8:26:49 PM | INFO | Login successful... 
+5/20/2025 | 8:26:49 PM | INFO | Trying to check user info... 
+5/20/2025 | 8:26:50 PM | INFO | User ID: 102638899 | Twitter: @lisyakairani | Total Points: 2040000 
+5/20/2025 | 8:26:50 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:26:51 PM | INFO | Last mining time: 5/19/2025, 8:26:27 PM
+5/20/2025 | 8:26:51 PM | INFO | Trying to start Mining for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/20/2025 | 8:26:52 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 8:26:52 PM | INFO | Trying to activate mining on-chain for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/20/2025 | 8:26:53 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x000130F3C1A5543A2fc252D34449E8712F87B22E"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x22","from":"0x000130f3c1a5543a2fc252d34449e8712f87b22e","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/20/2025 | 8:26:53 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
