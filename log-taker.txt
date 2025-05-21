@@ -5467,3 +5467,15 @@
 5/20/2025 | 8:26:52 PM | INFO | Trying to activate mining on-chain for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
 5/20/2025 | 8:26:53 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x000130F3C1A5543A2fc252D34449E8712F87B22E"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x22","from":"0x000130f3c1a5543a2fc252d34449e8712f87b22e","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 8:26:53 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 1:57:27 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 1:57:27 AM | INFO | Start process for wallet 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/21/2025 | 1:57:28 AM | INFO | Trying To Login for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/21/2025 | 1:57:28 AM | INFO | Login successful... 
+5/21/2025 | 1:57:28 AM | INFO | Trying to check user info... 
+5/21/2025 | 1:57:29 AM | INFO | User ID: 102638899 | Twitter: @lisyakairani | Total Points: 2064000 
+5/21/2025 | 1:57:29 AM | INFO | Trying to check user miner status... 
+5/21/2025 | 1:57:30 AM | INFO | Last mining time: 5/19/2025, 8:26:27 PM
+5/21/2025 | 1:57:30 AM | INFO | Trying to start Mining for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/21/2025 | 1:57:31 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 1:57:31 AM | INFO | Trying to activate mining on-chain for wallet: 0x000130F3C1A5543A2fc252D34449E8712F87B22E 
+5/21/2025 | 1:57:46 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x039b30fa462def347f0b4eb4ca9e68637ef544cd40ae71b4623533a366d3b255 
